@@ -3,11 +3,16 @@ Amazon QuickSight is a cloud-powered business intelligence (BI) service that all
 
 ## Features 
 ![Dashboard](https://github.com/TheWiafe/Sales-Analytics-Dashboard-For-Global-Energy-Industry/blob/main/Dashboard.jpg.png)
-- This dashboard shows the line chart of the sum of sales from January 2020 to December 2023 (blue line trend). The total sales from January 2024 to February 2025 is forecasted by the machine learning model of Amazon Quicksight (orange line trend). 
-- This donut chart also shows the sum of sales by Industries - such as Finance, Energy, Manufacturing, Healthcare, Tech, Consumer products, Retail, Communications, Transportation, and Misc. Each industry has an allocated color code, with a total sales sum of 2,297,200.  
+- The dashboard shows the line chart of the sum of sales from January 2020 to December 2023 (blue line trend). The total sales from January 2024 to February 2025 is forecasted by the machine learning model of Amazon Quicksight (orange line trend).
+
+- The donut chart also shows the sum of sales by Industries - such as Finance, Energy, Manufacturing, Healthcare, Tech, Consumer products, Retail, Communications, Transportation, and Misc. Each industry has an allocated color code, with a total sales sum of 2,297,200.  
+
 - Meanwhile, the Sales Key Performance Indicator card at the top right, shows the amount of sales for all these industries for the year 2023. It also shows that the percentage of revenue increase between the year 2023 and the previous year 2022 is 20.62%, with 2023 earning 733,947.02. 
+
 - Below the Sales KPI, the month with highest sales is extrapolated from the dataset. Specifically, the month with the highest sales of 112,326.47 is November 2023.
+
 - The forecasting model of Amazon Quicksight is estimated to be 32,592.68 for February 2025.
+
 - The last table shows the Sum of Sales by Region such as Americas (AMER), Asia-Pacific and Japan (APJ), as well as Europe, Middle East and Africa (EMEA). It also includes the sales for the various subregions, from the year 2020 to 2023. 
 
 
