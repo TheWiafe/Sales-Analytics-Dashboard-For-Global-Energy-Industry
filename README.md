@@ -1,8 +1,8 @@
 # Project Summary
 Amazon QuickSight is a cloud-powered business intelligence (BI) service that allows users to visualize data, build dashboards, perform ad-hoc analysis, and derive insights. This project develops a comprehensive dashboard in Amazon QuickSight to gain insights into sales by multiple attributes for a global energy company. This comprehensive dashboard gives an overview of the sum of sales by order date, industry, region and subregion.
 
-## Features
-Kindly download the sales database (in csv format) used to build this dashboard in this Github repository. 
+## Resources
+Kindly download the sales database (in csv format) used to build this dashboard in this Github repository. With an AWS account and Amazon Quicksight subscription, you can build the dashboard shown below. 
 
 ## Features 
 ![Dashboard](https://github.com/TheWiafe/Sales-Analytics-Dashboard-For-Global-Energy-Industry/blob/main/Dashboard.jpg.png)
