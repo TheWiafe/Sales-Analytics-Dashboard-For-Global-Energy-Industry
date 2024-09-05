@@ -10,11 +10,11 @@ Kindly download the sales database (in csv format) used to build this dashboard 
 
 - The donut chart also shows the sum of sales by Industries - such as Finance, Energy, Manufacturing, Healthcare, Tech, Consumer products, Retail, Communications, Transportation, and Misc. Each industry has an allocated color code, with a total sales sum of 2,297,200.  
 
-- Meanwhile, the Sales Key Performance Indicator card at the top right, shows the amount of sales for all these industries for the year 2023. It also shows that the percentage of revenue increase between the year 2023 and the previous year 2022 is 20.62%, with 2023 earning 733,947.02. 
+- Meanwhile, the Sales Key Performance Indicator card at the top right, shows the amount of sales for all these industries for the year 2023. It also shows that the percentage of revenue increase between the year 2023 and the previous year 2022 is 20.62%. 
 
 - Below the Sales KPI, the month with highest sales is extrapolated from the dataset. Specifically, the month with the highest sales of 112,326.47 is November 2023.
 
-- The forecasting model of Amazon Quicksight is estimated to be 32,592.68 for February 2025.
+- The forecasting model of Amazon Quicksight estimated the sales for February 2025 to be 32,592.68
 
 - The last table shows the Sum of Sales by Region such as Americas (AMER), Asia-Pacific and Japan (APJ), as well as Europe, Middle East and Africa (EMEA). It also includes the sales for the various subregions, from the year 2020 to 2023. 
 
